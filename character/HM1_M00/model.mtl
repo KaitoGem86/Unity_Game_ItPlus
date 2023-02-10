@@ -1,0 +1,207 @@
+newmtl Joint_1_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_2_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_3_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_4_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_5_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_6_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_53_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_1_CMP.png
+newmtl Joint_53_Object_1_Material_1
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_2_CMP.png
+newmtl Joint_64_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_2_CMP.png
+newmtl Joint_65_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_66_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_67_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_68_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_69_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_70_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_71_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_72_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_73_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_74_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_75_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_94_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_95_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png
+newmtl Joint_97_Object_0_Material_0
+ illum 2
+ Ka 0 0 0
+ Kd 0.8 0.8 0.8
+ Ks 1 1 1
+ Ns 800
+ d 1
+ Tr 0
+ map_Kd Texture_3_CMP.png

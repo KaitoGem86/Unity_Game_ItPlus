@@ -1,0 +1,16 @@
+newmtl Joint_48_Object_0_Material_0
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.49803922 0 0
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+newmtl Joint_59_Object_0_Material_0
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.49803922 0 0
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
